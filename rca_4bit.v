@@ -1,6 +1,6 @@
 // ============================================================
 // Project   : 4-bit Ripple Carry Adder (RCA)
-// Author    : Yashganesh Bachhav
+// Author    : Yash Ganesh Bachhav
 // College   : LGNSCOE, Nashik (SPPU)
 // Domain    : VLSI Design | Verilog HDL
 // ============================================================
