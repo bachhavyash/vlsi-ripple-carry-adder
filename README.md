@@ -54,5 +54,5 @@ ripple_carry_adder_4bit
 5. Click **Run**
 
 ## Author
-**Yashganesh Bachhav** | B.E. EnTC | LGNSCOE Nashik  
+**Yash Ganesh Bachhav** | TE EnTC | LGNSCOE Nashik  
 VLSI Internship — CODTECH IT Solutions (Jan–Feb 2025)
