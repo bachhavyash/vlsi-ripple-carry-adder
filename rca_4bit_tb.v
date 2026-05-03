@@ -18,7 +18,7 @@ module rca_4bit_tb;
 
     initial begin
         $display("================================================");
-        $display(" 4-bit Ripple Carry Adder — Yashganesh Bachhav");
+        $display(" 4-bit Ripple Carry Adder ");
         $display("================================================");
         $display("  A    |  B   | Cin | Sum  | Cout | Decimal");
         $display("-------|------|-----|------|------|--------");
